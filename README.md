@@ -24,7 +24,8 @@ Mini-projet (DS 1) de developpement Mobile, 3ème BI - FSEGT. Application Androi
 
 <img width="170" height="368" alt="image" src="https://github.com/user-attachments/assets/4e55ae7f-e6aa-4cbb-8694-c3a621f40a25" />
 
-<img width="162" height="363" alt="image" src="https://github.com/user-attachments/assets/5deb9f63-e9e7-429c-b9d6-6f411dbbd4fb" />
+<img width="181" height="371" alt="image" src="https://github.com/user-attachments/assets/8650d081-4302-452e-9466-a4710a435100" />
+
 
 <img width="182" height="357" alt="image" src="https://github.com/user-attachments/assets/1a66d13a-e90a-4995-b4e8-3c6e1c57ff80" />
 
