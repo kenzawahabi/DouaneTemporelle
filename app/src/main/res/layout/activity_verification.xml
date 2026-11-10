@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="1"
+    android:background="#F5F5F5">
+
+    <ImageView
+        android:id="@+id/img_photo_tk"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:src="@drawable/sablier"
+        android:scaleType="centerCrop" />
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.7"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tv_titre_passeport_tk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_titre"
+            android:padding="12dp"
+            android:text="PASSEPORT TEMPOREL"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_nom_tk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_titre_passeport_tk"
+            android:layout_marginTop="16dp"
+            android:padding="8dp"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_age_tk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_nom_tk"
+            android:padding="8dp"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_premier_tk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_age_tk"
+            android:padding="8dp"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_motif_tk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_premier_tk"
+            android:padding="8dp"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_alerte_tk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_motif_tk"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/bg_alerte"
+            android:padding="8dp"
+            android:text="Approbation interdite"
+            android:textColor="#C62828"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_approuver_tk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_alerte_tk"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/bg_bouton_vert"
+            android:text="Approuver le saut temporel"
+            android:textColor="#FFFFFF"
+            android:textAllCaps="false" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_refuser_tk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btn_approuver_tk"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/bg_bouton_rouge"
+            android:text="Refuser (Risque de paradoxe)"
+            android:textColor="#FFFFFF"
+            android:textAllCaps="false" />
+    </RelativeLayout>
+</LinearLayout>
