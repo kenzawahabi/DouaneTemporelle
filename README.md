@@ -19,8 +19,16 @@ Mini-projet (DS 1) de developpement Mobile, 3ème BI - FSEGT. Application Androi
 - **Android Studio**
 - **XML**
 - **Git et GitHub.**
+  
+## Captures d'écran
+Formulaire
+<img width="170" height="368" alt="image" src="https://github.com/user-attachments/assets/4e55ae7f-e6aa-4cbb-8694-c3a621f40a25" />
+Passeport
+<img width="162" height="363" alt="image" src="https://github.com/user-attachments/assets/5deb9f63-e9e7-429c-b9d6-6f411dbbd4fb" />
+paradoxe
+<img width="176" height="369" alt="image" src="https://github.com/user-attachments/assets/ce8a0ce3-61fb-4cbe-b2f6-54e6171db1ce" />
 
-## Resultat
+
 <img width="182" height="357" alt="image" src="https://github.com/user-attachments/assets/1a66d13a-e90a-4995-b4e8-3c6e1c57ff80" />
 
 
