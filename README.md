@@ -23,11 +23,11 @@ Mini-projet (DS 1) de developpement Mobile, 3ème BI - FSEGT. Application Androi
 ## Captures d'écran
 
 <img width="170" height="368" alt="image" src="https://github.com/user-attachments/assets/4e55ae7f-e6aa-4cbb-8694-c3a621f40a25" />
+<img width="169" height="363" alt="Capture d&#39;écran 2026-11-10 211845" src="https://github.com/user-attachments/assets/868d0a54-46dd-4a2f-ab58-d4911cfa884f" />
 
-<img width="181" height="371" alt="image" src="https://github.com/user-attachments/assets/8650d081-4302-452e-9466-a4710a435100" />
 
 
-<img width="182" height="357" alt="image" src="https://github.com/user-attachments/assets/1a66d13a-e90a-4995-b4e8-3c6e1c57ff80" />
+
 
 <img width="176" height="369" alt="image" src="https://github.com/user-attachments/assets/ce8a0ce3-61fb-4cbe-b2f6-54e6171db1ce" />
 
